@@ -1,0 +1,1 @@
+export const ASSESKEY = '9V2s9fGPqXjHlImsKB21FQTEC6n0Wio5'
